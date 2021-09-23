@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "huongque",
+    "slug": "huongque",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "huongque"
+}
