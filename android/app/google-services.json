@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "542548910439",
+    "project_id": "huongque-421a4",
+    "storage_bucket": "huongque-421a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542548910439:android:0bd222b656322319f0cfc2",
+        "android_client_info": {
+          "package_name": "com.huongque"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542548910439-anj06rqf60oc97ohouflu76vq1662sut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNnGVsv_AcHffVl8umvK1b8X7lAEpJNj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542548910439-anj06rqf60oc97ohouflu76vq1662sut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
